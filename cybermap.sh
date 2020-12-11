@@ -1,5 +1,5 @@
 #!/bin/bash
-#This Script Was Made By @cyberghost
+#This Script Was Made By MrRobotFramework
 
 clear
 
@@ -17,9 +17,9 @@ echo -e ' \e[1;5;32m
                                                  ███    ███           \e[0m
       ___________________________________________________________________________________________
       |                                                                                         |
-      |  {@} Coded By CyberGhost                                                           {@}  |
-      |  {@} Youtube  - https://www.youtube.com/channel/UCcbkV_EimZpPihtVvGVcf_A/featured  {@}  |
-      |  {@} Github   - https://github.com/AnonymousAt3                                    {@}  |
+      |  {@} Coded By MrRobot                                                              {@}  |
+      |  {@} Youtube  - https://www.youtube.com/c/MrRobotFramework                         {@}  |
+      |  {@} Telegram - https://t.me/mrrobotcorp                                           {@}  |
       |_________________________________________________________________________________________|
 
                         >>>>>>>>>>>>>>>>   MENU   <<<<<<<<<<<<<<<<<<
